@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "senha": "minhasenhaadmin",
+    "expira_em": "2030-01-01"
+  },
+  "Katia": {
+    "senha": "123",
+    "expira_em": "2025-05-03"
+  }
+}
