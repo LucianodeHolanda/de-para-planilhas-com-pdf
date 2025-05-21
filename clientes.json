@@ -5,6 +5,10 @@
   },
   "Katia": {
     "senha": "123",
-    "expira_em": "2025-05-03"
+    "expira_em": "2035-05-03"
+  },
+  "LUIZ_FELIPE": {
+    "senha": "Verdemata4321",
+    "expira_em": "2035-05-03"
   }
 }
