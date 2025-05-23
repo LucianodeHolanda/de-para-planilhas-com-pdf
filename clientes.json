@@ -1,6 +1,6 @@
 {
   "admin": {
-    "senha": "minhasenhaadmin",
+    "senha": "Verdemata@44912",
     "expira_em": "2030-01-01"
   },
   "Katia": {
@@ -10,5 +10,9 @@
   "LUIZ_FELIPE": {
     "senha": "Verdemata4321",
     "expira_em": "2035-05-03"
+  },
+  "LEANDRO_FEITOSA": {
+    "senha": "Verdemata4321",
+    "expira_em": "2035-05-22"
   }
 }
